@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 > [!quote] Definition
 > If the limits of adaptive responses are exceeded or if cells are exposed to damaging insults, deprived of essential nutrients, or become compromised by mutations that affect essential cellular constituents, a sequence of events follows that is termed cell injury
 
