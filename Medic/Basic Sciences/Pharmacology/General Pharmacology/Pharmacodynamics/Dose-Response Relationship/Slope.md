@@ -1,0 +1,2 @@
+- Measured at the mid portion of the D-R curve
+- Steep slope indicates that a smaller change in the dose of the drug would produce a large change in the response
